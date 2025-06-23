@@ -3,6 +3,8 @@
 // (powered by FernFlower decompiler)
 //
 
+// Currently unused, not needed.
+
 package uwu.fluttercat.ironightmares;
 
 import net.fabricmc.fabric.api.datagen.v1.DataGeneratorEntrypoint;

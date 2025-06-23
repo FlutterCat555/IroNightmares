@@ -20,7 +20,7 @@ import net.minecraft.util.Identifier;
 
 public class ModItems {
 
-    public static final Item RAW_IRON_NUGGET = registerItem("raw_iron_nugget", new Item(new Item.Settings().registryKey(RegistryKey.of(RegistryKeys.ITEM, Identifier.of(IroNightmares.MOD_ID,"raw_iron_nugget1")))));
+    public static final Item RAW_IRON_NUGGET = registerItem("raw_iron_nugget", new Item(new Item.Settings().registryKey(RegistryKey.of(RegistryKeys.ITEM, Identifier.of(IroNightmares.MOD_ID,"raw_iron_nugget")))));
     public static final Item RAW_GOLD_NUGGET = registerItem("raw_gold_nugget", new Item(new Item.Settings().registryKey(RegistryKey.of(RegistryKeys.ITEM, Identifier.of(IroNightmares.MOD_ID,"raw_gold_nugget")))));
     public static final Item RAW_COPPER_NUGGET = registerItem("raw_copper_nugget", new Item(new Item.Settings().registryKey(RegistryKey.of(RegistryKeys.ITEM, Identifier.of(IroNightmares.MOD_ID,"raw_copper_nugget")))));
     public static final Item COPPER_NUGGET = registerItem("copper_nugget", new Item(new Item.Settings().registryKey(RegistryKey.of(RegistryKeys.ITEM, Identifier.of(IroNightmares.MOD_ID,"copper_nugget")))));

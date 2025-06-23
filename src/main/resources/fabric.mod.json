@@ -1,15 +1,14 @@
 {
 	"schemaVersion": 1,
 	"id": "ironightmares",
-	"version": "1.2",
+	"version": "1.21.5-port-u1",
 	"name": "IroNightmares",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Makes the early game just a bit more tedious.",
 	"authors": [
-		"Me!"
+		"FlutterCat555"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/FlutterCat555/IroNightmares"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/ironightmares/icon.png",
