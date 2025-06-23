@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "ironightmares:diamond_shard"
+    }
+  },
+  "result": {
+    "id": "minecraft:diamond",
+    "count": 1
+  }
+}

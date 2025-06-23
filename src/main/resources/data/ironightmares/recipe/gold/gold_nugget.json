@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "group": "gold_nugget",
+  "ingredient": {
+    "item": "ironightmares:raw_gold_nugget"
+  },
+  "result": {
+    "id": "minecraft:gold_nugget"
+  },
+  "experience": 0.5,
+  "cookingtime": 200
+}

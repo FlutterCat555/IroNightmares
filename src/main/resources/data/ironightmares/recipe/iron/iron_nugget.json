@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "group": "iron_nugget",
+  "ingredient": {
+    "item": "ironightmares:raw_iron_nugget"
+  },
+  "result": {
+    "id": "minecraft:iron_nugget"
+  },
+  "experience": 0.5,
+  "cookingtime": 200
+}
