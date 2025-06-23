@@ -1,18 +1,16 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "misc",
+  "key": {
+    "#": "ironightmares:raw_copper_nugget"
+  },
   "pattern": [
     "###",
     "###",
     "###"
   ],
-  "key": {
-    "#": {
-      "item": "ironightmares:copper_nugget"
-    }
-  },
   "result": {
-    "id": "minecraft:copper_ingot",
-    "count": 1
+    "count": 1,
+    "id": "minecraft:copper_ingot"
   }
 }
