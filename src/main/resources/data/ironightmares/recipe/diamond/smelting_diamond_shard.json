@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 20000,
+  "experience": 8,
+  "ingredient": [
+    "ironightmares:diamond_shard"
+  ],
+  "result": {
+    "id": "minecraft.diamond_block"
+  }
+}
