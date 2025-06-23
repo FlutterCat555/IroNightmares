@@ -2,9 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item": "minecraft:raw_gold"
-    }
+      "minecraft:raw_gold"
   ],
   "result": {
     "id": "ironightmares:raw_gold_nugget",

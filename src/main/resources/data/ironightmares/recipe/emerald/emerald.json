@@ -1,16 +1,14 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "misc",
+  "key": {
+      "#": "ironightmares:emerald_shard"
+  },
   "pattern": [
     "###",
     "###",
     "###"
   ],
-  "key": {
-    "#": {
-      "item": "ironightmares:emerald_shard"
-    }
-  },
   "result": {
     "id": "minecraft:emerald",
     "count": 1
