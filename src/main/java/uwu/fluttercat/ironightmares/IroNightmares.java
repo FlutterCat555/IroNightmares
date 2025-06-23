@@ -11,8 +11,8 @@ import org.slf4j.LoggerFactory;
 import uwu.fluttercat.ironightmares.item.ModItems;
 
 public class IroNightmares implements ModInitializer {
-	public static final String MOD_ID = "ironightmares";
-	public static final Logger LOGGER = LoggerFactory.getLogger("ironightmares");
+		public static final String MOD_ID = "ironightmares";
+	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
 	public void onInitialize() {
 		ModItems.registerModItems();

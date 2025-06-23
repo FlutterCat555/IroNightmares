@@ -2,12 +2,10 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item": "minecraft:raw_iron"
-    }
+      "minecraft:raw_iron"
   ],
   "result": {
-    "id": "ironightmares:raw_iron_nugget",
-    "count": 9
+    "count": 9,
+    "id": "ironightmares:raw_iron_nugget"
   }
 }
