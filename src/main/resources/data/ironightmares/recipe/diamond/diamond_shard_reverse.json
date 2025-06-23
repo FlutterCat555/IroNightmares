@@ -1,5 +1,4 @@
-}
- {
+{
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
@@ -7,6 +6,6 @@
   ],
   "result": {
     "count": 9,
-    "id": "ironightmares:diamond_shard",
+    "id": "ironightmares:diamond_shard"
   }
 }

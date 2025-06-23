@@ -2,19 +2,6 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item": "minecraft:raw_copper"
-    }
-  ],
-  "result": {
-    "id": "ironightmares:raw_copper_nugget",
-    "count": 9
-  }
-}
-{
-  "type": "minecraft:crafting_shapeless",
-  "category": "misc",
-  "ingredients": [
       "minecraft:raw_copper"
   ],
   "result": {
