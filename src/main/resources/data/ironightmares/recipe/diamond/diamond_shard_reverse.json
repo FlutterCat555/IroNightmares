@@ -1,13 +1,12 @@
-{
+}
+ {
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item": "minecraft:diamond"
-    }
+      "minecraft:diamond"
   ],
   "result": {
+    "count": 9,
     "id": "ironightmares:diamond_shard",
-    "count": 9
   }
 }
